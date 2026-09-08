@@ -1,1 +1,1 @@
-january_to_june_rain
+january_to_june_rainfall=1.93
