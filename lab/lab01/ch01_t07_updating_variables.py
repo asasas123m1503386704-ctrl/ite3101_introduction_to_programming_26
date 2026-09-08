@@ -1,1 +1,1 @@
-annual_rainfall= sep
+annual_rainfall= september_
