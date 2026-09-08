@@ -1,2 +1,2 @@
-Float_1 = 0.25
-Float_2 = 40.0
+FLOAT_1 = 0.25
+FLOAT_2 = 40.0
