@@ -1,2 +1,2 @@
-greeting_message = "Welcome to Code"
+greeting_message = "Welcome to Codeca"
 current_excercise = 5
