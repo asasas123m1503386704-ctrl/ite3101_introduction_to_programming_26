@@ -3,5 +3,5 @@ september_rain = 12
 october_rain = 8
 november_rain = 15
 december_rain = 7
-annual_rainfall = annual_rainfall+september_rain
+annual_rainfall = september_rain
 annual_rainfall = october_rain+november_rain+december_rain
