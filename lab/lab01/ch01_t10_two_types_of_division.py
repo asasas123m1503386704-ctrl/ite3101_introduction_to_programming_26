@@ -1,2 +1,3 @@
 cucumbers =100
-num
+num people =6
+whole-
