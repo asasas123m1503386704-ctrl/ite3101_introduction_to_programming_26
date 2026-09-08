@@ -1,2 +1,1 @@
-greeting_message = "Welcome to Codecademy!"
-current_exercise = 5
+todays_date = "08/09/2026"
