@@ -1,3 +1,3 @@
 apples=12  
 oranges=7
-total
+total_fruits=apples+oranges
