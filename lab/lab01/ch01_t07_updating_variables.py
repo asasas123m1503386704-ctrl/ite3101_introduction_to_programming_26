@@ -1,2 +1,2 @@
 annual_rainfall +=september_rainfall
-annual_rainfall +=o
+annual_rainfall +=octtober_rainfall
