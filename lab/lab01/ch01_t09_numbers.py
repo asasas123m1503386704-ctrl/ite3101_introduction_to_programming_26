@@ -1,4 +1,4 @@
 My_int = 1
-my_float = 2.5
+My_float = 2.5
 my_boolean = False
 cucumbers = 100
