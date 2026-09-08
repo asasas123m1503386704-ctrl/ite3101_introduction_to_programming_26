@@ -1,2 +1,2 @@
-greeting_message = "Hello, World!"
-current_ex = 2024
+greeting_message = ""
+current_excercise = 5
