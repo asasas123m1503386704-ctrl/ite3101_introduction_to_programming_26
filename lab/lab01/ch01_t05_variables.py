@@ -1,2 +1,2 @@
-message ="Great!"
+todays ="Great!"
 print(message)
