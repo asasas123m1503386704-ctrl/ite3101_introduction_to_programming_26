@@ -1,1 +1,2 @@
-greeting_message = 
+greeting_message = "Hello, World!"
+ 
