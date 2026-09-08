@@ -1,1 +1,1 @@
-CE
+CELSIUS=
