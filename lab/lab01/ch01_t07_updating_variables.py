@@ -1,4 +1,5 @@
 annual_rainfall = 100  
 september_rain=12
 october_rain=8
-november
+november_rain=15
+december_rain=7
