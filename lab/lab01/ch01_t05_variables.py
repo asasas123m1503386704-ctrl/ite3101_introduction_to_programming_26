@@ -1,2 +1,2 @@
-message="Great!"
-print
+message = "Great!"
+print(message)
