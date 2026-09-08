@@ -1,4 +1,1 @@
-BASE = 10
-HEIGHT = 5
-AREA = BASE * HEIGHT
-VOLUME = AREA * 3
+cucm
