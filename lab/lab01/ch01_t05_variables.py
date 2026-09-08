@@ -1,2 +1,2 @@
-message = "Great!"
+message ="Great!"
 print(message)
