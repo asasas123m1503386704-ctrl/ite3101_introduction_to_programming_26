@@ -1,3 +1,4 @@
 APPLES = 12
 ORANGES = 7
-TOTAL_FRUITS = apples + oranges
+TOTAL_FRUITS = APPLES = 12
+ + oranges
