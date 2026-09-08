@@ -1,4 +1,4 @@
 BASE = 10
-height = 5
-area = base * height
-volume = area * 3
+HEIGHT = 5
+AREA = BASE * HEIGHT
+VOLUME = AREA * 3
