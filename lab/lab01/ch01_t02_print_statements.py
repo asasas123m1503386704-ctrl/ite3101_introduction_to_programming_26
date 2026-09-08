@@ -1,2 +1,2 @@
-print(First line
+print("First line
       Second line")
